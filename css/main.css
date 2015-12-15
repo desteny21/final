@@ -1,0 +1,13 @@
+body {
+    background-image:"http://freehdw.com/wallpapers/cute-pink-damask-pattern.jpg";
+}
+
+#header h1, #header h2 {
+    font-family: 'Kunstler Script';
+    font-size:350%;
+}
+#nav {
+    background-color:pink;
+    color:white;
+    padding:30px;
+}
